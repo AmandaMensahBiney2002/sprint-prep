@@ -50,4 +50,4 @@ git clone https://github.com/AmandaMensahBiney2002/todo-app.git
 
 Amanda Mensah-Biney
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/AmandaMensahBiney2002
